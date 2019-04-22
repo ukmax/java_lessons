@@ -6,7 +6,7 @@ public class MyFirstProgramTest {
 
     @Test
     public void FirstTest(){
-        assert 99 == 99;
+        assert true;
     }
 
     @Test
